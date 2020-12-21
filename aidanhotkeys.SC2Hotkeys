@@ -11,7 +11,7 @@ AlertRecall=F11
 CameraTurnLeft=Home
 CameraTurnRight=F12
 CameraZoomFirst=Insert
-CameraZoomLast=Delete
+CameraZoomLast=Control+PrintScreen
 CameraZoomNext=PageUp
 CameraZoomPrev=End
 CameraPush=Space
@@ -36,7 +36,7 @@ ControlGroupRecall7=4
 ControlGroupRecall8=5
 ControlGroupRecall9=6
 GameSpeedDec=Shift+Home
-GameSpeedInc=Shift+F7
+GameSpeedInc=Shift+Period
 GameTooltipsOn=Shift+Left
 InventoryButtonUse0=F6
 InventoryButtonUse1=F7
@@ -53,6 +53,7 @@ CameraView1=T
 CameraView2=Y
 CameraView3=U
 CameraView4=Shift+Down
+CameraView6=Shift+PrintScreen
 
 [Commands]
 250mmStrikeCannons/Zergling=
